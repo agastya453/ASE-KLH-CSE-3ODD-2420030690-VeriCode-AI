@@ -8,7 +8,7 @@
 
 # 📌 Project Information
 
-**Course:** Engineering Capstone Project – 1 (23IE4053R/23IE4053A)
+**Course:** Adaptive software engineering
 
 **Project Title:**
 **VeriCode AI: Adaptive AI-Powered DevSecOps and Software Quality Management Platform**
