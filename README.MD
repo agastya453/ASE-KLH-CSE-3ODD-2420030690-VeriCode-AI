@@ -1,6 +1,6 @@
 # VeriCode AI: Adaptive AI-Powered DevSecOps and Software Quality Management Platform
 
-> Engineering Capstone Project – 1
+>
 > Department of Computer Science & Engineering | KLH University
 > Academic Year: 2026–2027
 
